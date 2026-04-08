@@ -6,8 +6,8 @@ This Power BI dashboard provides a comprehensive analysis of Airbnb’s global p
 # Project Assets
 ---
 - **Dashboard PBIX FILE:**  [Download here](https://drive.google.com/file/d/1Wl9Qn6jkzHEIsc8z0AJZxr3a9hb9xplC/view?usp=drive_link)
-- **Dataset used:**  [Listings.csv](https://drive.google.com/file/d/1pCw6E4LKmF6BiTlmSeakvIUBVBv_lFYb/view?usp=drive_link)
-            and   [Reviews.csv](https://drive.google.com/file/d/1tyfTHNgB9YJ6DmZpGUuqXxJNQdmf0EL_/view?usp=drive_link)
+- **Dataset used:**  [Listings.csv](https://drive.google.com/file/d/1pCw6E4LKmF6BiTlmSeakvIUBVBv_lFYb/view?usp=drive_link) and [Reviews.csv](https://drive.google.com/file/d/1tyfTHNgB9YJ6DmZpGUuqXxJNQdmf0EL_/view?usp=drive_link)
+- **Dataset source:** [Maven Analytics - Airbnb Listings and Reviews ](https://mavenanalytics.io/data-playground/airbnb-listings-reviews)
 # Dashboard Pages
   ---
 - **Homepage:**   Central landing page with Page Navigator.  
